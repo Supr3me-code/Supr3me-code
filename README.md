@@ -1,3 +1,4 @@
 ### Hi there 👋
-#### I am Dishant... yup, that's it.
+#### I am Dishant
+##### 3rd year Computer Science student 
 - [x] procrastinating machine
