@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supr3me-code&layout=compact)](https://github.com/Supr3me-code/github-readme-stats)
 
-![supr3me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=radical)
+![supr3me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=great-gatsby)
 
 ## Connect with me:
 
@@ -26,11 +26,11 @@
 [<img align="left" alt="Supr3me | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Supr3me | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<!-- <br />
 
 #### Visitors:
 
-![Visitor Count](https://profile-counter.glitch.me/Supr3me-code/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Supr3me-code/count.svg) -->
 
 <!-- ### Languages and Tools:
 
