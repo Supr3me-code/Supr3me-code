@@ -13,6 +13,11 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-supr3me.vercel.app/api/spotify-playing" alt="supr3me Spotify Playing" width="350" />](https://open.spotify.com/user/31l5mjunvntmwvgck33bdl7xytyi) -->
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supr3me-code&layout=compact)](https://github.com/Supr3me-code/github-readme-stats)
+
+![supr3me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=radical)
 
 ## Connect with me:
 
@@ -22,9 +27,8 @@
 [<img align="left" alt="Supr3me | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
 
-## Profile visits:
+#### Visitors:
 
 ![Visitor Count](https://profile-counter.glitch.me/Supr3me-code/count.svg)
 
