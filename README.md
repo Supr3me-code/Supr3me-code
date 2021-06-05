@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supr3me-code&layout=compact)](https://github.com/Supr3me-code/github-readme-stats)
 
-![supr3me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=vision-friendly-dark)
+![supr3me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=vision-friendly-dark) 
 
 ## Connect with me:
 
