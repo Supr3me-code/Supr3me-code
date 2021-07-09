@@ -66,4 +66,4 @@
 [twitter]: https://twitter.com/DishantArora
 [youtube]: https://www.youtube.com/channel/UCkrBx56-R2vlkrfuQNofShg
 [instagram]: https://instagram.com/dish_arora
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/dishant-arora-71981b169/
+[linkedin]: https://www.linkedin.com/in/dishant-arora-71981b169/
