@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DishantArora?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDishantArorar&screen_name=DishantArora)
 
-## I'm a final Computer Science student
+## I'm a final year Computer Science student
 
 - 🌱 I’m currently learning Dart and the Flutter framework
 - 👯 I’m looking to collaborate with other developers
