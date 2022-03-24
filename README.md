@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning the MERN Stack
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play basketball and CS:GO (subscribe [![youtube]( https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github)](https://www.youtube.com/channel/UCkrBx56-R2vlkrfuQNofShg)
-🙃)
+- ⚡ Fun fact: I love to watch anime and listen to lo-fi tracks
 
 <!-- ### Spotify Playing 🎧
 
