@@ -26,10 +26,7 @@
 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supr3me-code&layout=compact)](https://github.com/Supr3me-code/github-readme-stats)
-
-![supr3me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=vision-friendly-dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supr3me-code&layout=compact)](https://github.com/Supr3me-code/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api?username=Supr3me-code&show_icons=true&theme=vision-friendly-dark" height="165"> 
 
 ## Connect with me:
 
@@ -42,11 +39,11 @@
 
 
 <!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/supr3me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="supr3me" /></a></p><br><br><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supr3me-code&" alt="supr3me" /></p> -->
-<!-- <br />
+<p><a href="https://www.buymeacoffee.com/supr3me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="supr3me" /></a></p><br><br><br><br> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supr3me-code&" alt="supr3me" /></p>
+<br />
 
-#### Visitors:
+<!-- #### Visitors:
 
 ![Visitor Count](https://profile-counter.glitch.me/Supr3me-code/count.svg) -->
 
