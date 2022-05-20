@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/__supr3me__" target="blank"><img src="https://img.shields.io/twitter/follow/__supr3me__?logo=twitter&style=for-the-badge" alt="__supr3me__" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS, Typescript**
+- 🌱 I’m currently learning **NextJS, Typescript**
 
 - 🤝 I’m looking for help with [Supr3me News](https://github.com/Supr3me-code/Supr3meNews)
 
