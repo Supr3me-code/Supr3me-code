@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Supr3me News](https://github.com/Supr3me-code/Supr3meNews)
 
-- 💬 Ask me about **JavaScript, ReactJS, HTML/CSS, C++, Dart**
+- 💬 Ask me about **JavaScript, ReactJS, HTML/CSS, C++, Dart, MySQL**
 
 - 📫 How to reach me **dishantarora16@gmail.com**
 
