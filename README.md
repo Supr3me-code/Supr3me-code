@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJS, HTML/CSS, C++, Dart**
 
-- 📫 How to reach me **dishantarora@gmail.com**
+- 📫 How to reach me **dishantarora16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
