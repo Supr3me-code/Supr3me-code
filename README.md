@@ -20,12 +20,12 @@
 <a href="https://dev.to/supr3mecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="supr3mecode" height="30" width="40" /></a>
 <a href="https://twitter.com/__supr3me__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__supr3me__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dishantarora16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishantarora16" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dishant-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dishant-arora" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/dishant-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dishant-arora" height="30" width="40" /></a> -->
 <a href="https://instagram.com/dish_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dish_arora" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/iisupr3meii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iisupr3meii" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/iisupr3meii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iisupr3meii" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/supr3me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="supr3me" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/supr3me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supr3me" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dishantarora/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dishantarora/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dishantarora/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dishantarora/profile" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
