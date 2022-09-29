@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
-- 🤝 I’m looking for help with [Supr3me News](https://github.com/Supr3me-code/Supr3meNews)
+- 🤝 I’m looking for help with [Youtube Bookmarker](https://github.com/Supr3me-code/youtube-bookmarker)
 
 - 💬 Ask me about **JavaScript, ReactJS, HTML/CSS, C++, Dart, MySQL**
 
