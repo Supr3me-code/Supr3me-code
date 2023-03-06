@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supr3me-code" alt="supr3me-code" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/supr3metwt" target="blank"><img src="https://img.shields.io/twitter/follow/supr3metwt?logo=twitter&style=for-the-badge" alt="supr3metwt" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/supr3metwt" target="blank"><img src="https://img.shields.io/twitter/follow/supr3metwt?logo=twitter&style=for-the-badge" alt="supr3metwt" /></a> </p> -->
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
