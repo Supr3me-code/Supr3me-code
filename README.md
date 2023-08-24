@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/supr3metwt" target="blank"><img src="https://img.shields.io/twitter/follow/supr3metwt?logo=twitter&style=for-the-badge" alt="supr3metwt" /></a> </p> -->
 
-- 🌱 I’m currently learning **NextJS, Typescript, GraphQL**
+- 🌱 I’m currently learning **React native, NextJS, Typescript, GraphQL**
 
 - 🤝 I’m looking for help with [LuggageDB](https://github.com/Supr3me-code/luggage-db)
 
