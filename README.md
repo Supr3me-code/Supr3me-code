@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native, NextJS, Typescript, GraphQL**
 
-- 🤝 I’m looking for help with [LuggageDB](https://github.com/Supr3me-code/luggage-db)
+- 🤝 I’m looking for help with [Krīḍana](https://github.com/Supr3me-code/kridana)
 
 - 💬 Ask me about **JavaScript, ReactJS, HTML/CSS, C++, Dart, MySQL**
 
